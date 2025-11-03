@@ -2,5 +2,5 @@ python-telegram-bot==20.3
 replicate==0.14.0
 python-dotenv
 requests
-aiohttp
+aiohttp==3.8.5
 aiogram==2.25.1
