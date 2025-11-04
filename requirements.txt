@@ -1,6 +1,11 @@
+pip>=24.0
+setuptools>=70.0
+wheel>=0.43.0
 python-telegram-bot==20.3
 replicate==0.14.0
 python-dotenv
 requests
 aiohttp==3.8.5
 aiogram==2.25.1
+multidict==6.0.4
+yarl==1.9.2
